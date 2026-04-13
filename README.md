@@ -154,9 +154,9 @@ This creates something called `clean_orders` — a filtered version of your orde
 ---
 
 ## 📊 Phase 4: Answering Business Questions
-
-The scripts answers the following business questions...
-
+ 
+Now the fun part! Run each script below to answer a specific business question:
+ 
 | Script | Business Question | What You Will See |
 |---|---|---|
 | `04_monthly_revenue_trends.sql` | What are our monthly revenue trends? | A table showing revenue, orders and average order value for each month |
@@ -164,6 +164,8 @@ The scripts answers the following business questions...
 | `06_best_performing_categories.sql` | Which product categories make the most money? | Top 15 categories ranked by total revenue |
 | `07_average_order_value.sql` | What is our average order value? | Overall AOV plus breakdown by payment type |
 | `08_rfm_customer_segmentation.sql` | Which customers are loyal vs at risk? | Every customer labeled as Champion, Loyal, At Risk, Lost etc. |
+ 
+---
 
 ---
 
