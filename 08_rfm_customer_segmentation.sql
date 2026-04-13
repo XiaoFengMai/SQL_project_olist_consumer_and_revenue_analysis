@@ -1,6 +1,6 @@
 -- Advanced Analysis
 -- RFM (Recency, Frequency, Monetary), a classic marketing framework
--- Customer segregation
+-- Customer segmentation
 
 WITH rfm_base AS (
     SELECT
