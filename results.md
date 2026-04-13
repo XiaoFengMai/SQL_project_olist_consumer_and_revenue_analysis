@@ -1,9 +1,14 @@
-# 01_olist_tables.sql output
+# 01_olist_tables.sql creating the tables output
 <img width="373" height="192" alt="image" src="https://github.com/user-attachments/assets/4f8a2c38-676d-4ef9-93da-2ae39a283e64" />
 <img width="548" height="190" alt="image" src="https://github.com/user-attachments/assets/83471d9a-18d3-4c4d-abca-b6e7a45d94fe" />  
 
 ----------------------------------------------------------------------------------------------------
-    
+
+# 01.5_import
+to manually import the data into the tables created refer to image below. do that for each of the tables. adjust the header toggle (under options) on or off if an error pops up.
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/3bf6eac3-552a-4b0a-99c5-c7f6a5179f24" />
+
+
 # 02_data_cleaning.sql output
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4ab51355-e3ca-4b00-a9c7-1784ef08d7c7" />
 <img width="365" height="82" alt="image" src="https://github.com/user-attachments/assets/a0f617d2-ef5b-419a-ab5e-2aae37d4fe9b" />  
@@ -45,15 +50,24 @@ count 96478
 ## RFM (Recency, Frequency, Monetary) a classic marketing framework
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4b0301d3-f071-4480-8bcc-cab6371e442d" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f9db81bc-727e-49f0-b57c-7993f8f8efc2" />
-### 1000 entries
+<img width="432" height="102" alt="image" src="https://github.com/user-attachments/assets/32029ea9-1d15-486d-a4c4-533ecc5f67de" />
   
+  1000 ENTRIES displayed
+
 ----------------------------------------------------------------------------------------------------  
 
+# 09_month_by_month_revenue_growth.sql
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/e23b53ea-304a-423c-a269-d93910e8cd4c" />
+<img width="376" height="103" alt="image" src="https://github.com/user-attachments/assets/1970bad2-3905-47ac-af02-8b8cc940dc16" />
 
+----------------------------------------------------------------------------------------------------  
 
-
-
-
+# 10_churn_risk_customers.sql
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ee8cc899-b0b9-439e-8a28-e8cc1606be6f" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/06b8df8e-4e18-4078-8604-6ee50fc8b52c" />
+<img width="386" height="86" alt="image" src="https://github.com/user-attachments/assets/55671429-143a-4aaa-8d6c-8c2f141947fa" />
+  
+----------------------------------------------------------------------------------------------------  
 
 
 
