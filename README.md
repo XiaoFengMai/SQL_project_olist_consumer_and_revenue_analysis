@@ -36,7 +36,8 @@ PostgreSQL, pgAdmin 4
 4. Go to tools in the olist ecommerce database, add a Query Tool. Put content of 01_olist_create_tables.sql into new Query Tool and run it.
 5. Unzip the dataset downloaded in step 2: <img width="861" height="267" alt="image" src="https://github.com/user-attachments/assets/b672a0ee-a1cc-4bc8-b256-c17141fde9c4" />
 6. Import CSVs
-7. 
-8. 
-9. Run scripts in order: 01 → 06
+to manually import the data into the tables created refer to image below. do that for each of the tables. adjust the header toggle (under options) on or off if an error pops up. select the appropriate file where data of the file should match the table name. example: for the order items table in the olist database, import the "olist_order_items_dataset.csv".
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/3bf6eac3-552a-4b0a-99c5-c7f6a5179f24" />
+7. Create new Query Tools for each of the scripts 01 → 10 and put content from each script into a Query Tool.
+8. Run the scripts in order to generate charts and gather necessary insights.
 
