@@ -4,7 +4,7 @@
 
 
     
-# 02_data_audit.sql output
+# 02_data_cleaning.sql output
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/5330f95d-3494-45da-b411-8ae138992790" />  
 <img width="365" height="82" alt="image" src="https://github.com/user-attachments/assets/a0f617d2-ef5b-419a-ab5e-2aae37d4fe9b" />  
 
