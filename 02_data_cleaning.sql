@@ -1,4 +1,4 @@
---check row counts
+--audits data and check row counts for easier usability
 
 SELECT 'orders' AS table_name, COUNT(*) FROM orders 	-- creates two columns, "table_name" and "count", first row contains "orders" and # or orders
 UNION ALL SELECT 'customers', count(*) FROM customers		-- UNION ALL stacks the result of each SELECT into one list under first row "orders"
