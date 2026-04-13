@@ -30,6 +30,13 @@ to identify revenue trends, top customers, and churn risk.
 PostgreSQL, pgAdmin 4
 
 ## How to Run
-1. Create a PostgreSQL database named `olist_ecommerce`
-2. Run scripts in order: 01 → 06
-3. Import CSVs from Kaggle before running 03+
+1. Download and setup PostgreSQL and pgAdmin 4.
+2. Download the olist ecommerce dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+3. Create a PostgreSQL database named `olist_ecommerce`
+4. Go to tools in the olist ecommerce database, add a Query Tool. Put content of 01_olist_create_tables.sql into new Query Tool and run it.
+5. Unzip the dataset downloaded in step 2: <img width="861" height="267" alt="image" src="https://github.com/user-attachments/assets/b672a0ee-a1cc-4bc8-b256-c17141fde9c4" />
+6. Import CSVs
+7. 
+8. 
+9. Run scripts in order: 01 → 06
+
