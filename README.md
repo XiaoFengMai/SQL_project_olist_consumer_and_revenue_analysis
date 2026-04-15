@@ -215,3 +215,5 @@ ecommerce-sql-analysis/
 
 ---
 
+
+*Dataset credit: Olist, the largest department store in Brazilian marketplaces. Data made publicly available on Kaggle under the CC BY-NC-SA 4.0 licence.*
